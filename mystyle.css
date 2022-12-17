@@ -1,0 +1,52 @@
+body { 
+    background-color: rgb(184, 243, 243);
+    font-size: xx-large
+    
+}
+
+
+#list{ 
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(53, 118, 118);
+}
+header { 
+    font-size: x-large;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+
+header{ background-color: rgb(183, 129, 234);}
+
+img { width: 500px;}
+
+#friend {
+    position: absolute;
+    top: 25%;
+    left: 30%;
+    width: 300px
+    
+}
+
+
+#fam {
+    position: absolute;
+    top: 25%;
+    left: 55%;
+    width: 300px
+    
+}
+
+#cuz {
+    position: absolute;
+    top: 25%;
+    left: 80%;
+    width: 300px
+    
+}
+
+#video {
+    position: absolute;
+    top: 65%;
+    left: 45%;
+    
+}
